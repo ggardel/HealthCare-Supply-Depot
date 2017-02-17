@@ -3,7 +3,10 @@
 <img src="http://i.imgur.com/m32Dufn.png" title="source: imgur.com" />
 
 
-HealthCare Supply Depot website framework #(www.healthcaresupplydepot.com)
+HealthCare Supply Depot website framework
+
+#(www.healthcaresupplydepot.com)
+
 Educate and make it easier to access supplies for people dealing with Incontinence, Ostomy and Wound care problems.
 
 #About our project
