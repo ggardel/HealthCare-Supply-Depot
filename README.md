@@ -3,7 +3,7 @@
 <img src="http://i.imgur.com/m32Dufn.png" title="source: imgur.com" />
 
 
-HealthCare Supply Depot website framework (www.healthcaresupplydepot.com)
+HealthCare Supply Depot website framework #(www.healthcaresupplydepot.com)
 Educate and make it easier to access supplies for people dealing with Incontinence, Ostomy and Wound care problems.
 
 #About our project
@@ -32,10 +32,13 @@ I have suppliers, wireframe for the website based on user experience, DNS, links
 #About Our Team
 <img src="http://i.imgur.com/vMss0sZ.jpg" title="source: imgur.com" />
 #Creator: Gustavo Ferreira
+#Title: Web Developer, Nurse (BSN) and Entrepreneur
+
 Location: California
 Bio: I was born in Rio de Janeiro, Brazil. The beautiful city where I lived and worked as a Registered Nurse (BSN) until December of 2006 when I relocated to the United States. I studied JavaScript, HTML, and CSS while I was working in healthcare at night. During the day I was doing some freelance websites for friends and small business. I had the opportunity to improve my knowledge with Back-End programming during General Assembly Full Stack Web Development Immersive Program. 
-Title: Web Developer, Nurse (BSN) and Entrepreneur
-About Our Company
+
+
+#About Our Company
 GustDev Digital 
 Location: Temecula, California
 #Website: http://www.gustdev.com
