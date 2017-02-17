@@ -9,6 +9,8 @@ HealthCare Supply Depot website framework
 
 Educate and make it easier to access supplies for people dealing with Incontinence, Ostomy and Wound care problems.
 
+Click here http://www.medstartr.com/project/detail/1216 to see the project profile at MedStartr where we are trying to raise funds o make it happen.
+
 #About our project
 The problem we solve:
 Incontinence, ostomy, and wound care are very complicated when many of the clients are in a wheelchair or in bed. Patients and Caregivers need to manage the time, caring and providing all their needs. Information and instruction are keys elements to avoid complications as infections, skin damage, and management of the inventory of supply. Transportation and communication can be a big issue when you have restrictions or are in urgency need. 
