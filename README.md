@@ -9,7 +9,7 @@ HealthCare Supply Depot website framework
 
 Educate and make it easier to access supplies for people dealing with Incontinence, Ostomy and Wound care problems.
 
-Click here http://www.medstartr.com/project/detail/1216 to see the project profile at MedStartr where we are trying to raise funds o make it happen.
+Click here http://www.medstartr.com/project/detail/1216 to see the project profile at MedStartr where we are trying to raise funds to make it happen.
 
 #About our project
 The problem we solve:
