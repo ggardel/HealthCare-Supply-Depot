@@ -12,3 +12,4 @@ wpem_page:
   - my-account
 ---
 [woocommerce_my_account]
+
