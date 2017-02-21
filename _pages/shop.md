@@ -10,3 +10,5 @@ published: true
 wpem_page:
   - shop
 ---
+
+homepage
