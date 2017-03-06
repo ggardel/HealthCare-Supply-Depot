@@ -48,7 +48,7 @@ Bio: I was born in Rio de Janeiro, Brazil. The beautiful city where I lived and 
 
 #About Our Company
 GustDev Digital 
-Location: Temecula, California
+Location:California
 #Website: http://www.gustdev.com
 Twitter: @gustavogardel
 Facebook: http://facebook.com/ggardel
