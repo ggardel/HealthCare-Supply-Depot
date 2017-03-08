@@ -56,7 +56,7 @@ Location:California
 Twitter: @gustavogardel
 Facebook: http://facebook.com/ggardel
 Other link: https://www.linkedin.com/in/gustavogardel/
-Product Stage: Idea
+Product Stage: Idea/website design/contact suppliers
 YTD Sales: Working on it
 Employees: 1-2
 
