@@ -89,3 +89,4 @@ Thank You
 
 #I know that this is not super creative or innovative, but it is a real problem.  People dealing with incontinence, ostomy or wounds have a hard time managing care and supplies. The look that other people give when you are buying a package of diapers, the smell of a diabetic ulcer or colostomy bag could be overwhelming.  As well as having the knowledge and proper supplies to reduce further complications.  These situations could be avoided using tools such as a mobile app or website. Now imagine if transportation or mobility is an issue?  People that do not deal with these issues of incontinence, ostomy or wounds have no idea how hard it is. I am just asking for your help to build this tool that will facilitate the life of many people. Thank You!
 
+
